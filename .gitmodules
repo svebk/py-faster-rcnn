@@ -2,3 +2,6 @@
 	path = caffe-fast-rcnn
 	url = https://github.com/rbgirshick/caffe-fast-rcnn.git
 	branch = fast-rcnn
+[submodule "easydict"]
+	path = easydict
+	url = https://github.com/makinacorpus/easydict.git
